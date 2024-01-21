@@ -1,5 +1,5 @@
 # Usando métodos para criar uma Calculadora
-Seguindo com meus estudos, decidir fazer um projeto de certa forma, básico que se engloba a utilização de métodos, estrutura de decisão e estrutura de repetição.
+Seguindo com meus estudos, decidir fazer um projeto de certa forma, básico que se engloba a utilização de métodos, estruturas de repetição e condicionais.
 
 
 
